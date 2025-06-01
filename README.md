@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15570827.svg)](https://doi.org/10.5281/zenodo.15570827)
 # Conjunction Analysis Framework
 
 This repository provides the custom resources and parsing tools developed for the study:
