@@ -68,7 +68,7 @@ Each CSV in `sample_outputs/` shows:
 
 If you use or adapt this code or dictionaries, please cite the paper:
 
-> Lema-Alarcón, J. (2025). Dual-Level Modeling of Conjunction in L1 and L2 Writing: A Corpus-Based Computational Approach. *[Journal Name, Springer]*.
+> Lema-Alarcón, J. (2025). Dual-Level Modeling of Conjunction in L1 and L2 Writing: A Corpus-Based Computational Approach. 
 
 ---
 
