@@ -64,8 +64,23 @@ Each CSV in `sample_outputs/` shows:
 
 ---
 
-## 📄 Citation
+## 📚 Citation & Usage
 
+This repository accompanies ongoing research on **dual-level conjunction modeling** in learner and native writing.  
+The code, dictionaries, and examples are provided for transparency, replication, and feedback while the full article is under preparation.
+
+If you use or adapt any part of this repository, please cite it as follows:
+
+> **Lema-Alarcón, J. (2025). _Dual-Level Modeling of Conjunction in L1 and L2 Writing:  
+> A Corpus-Based Computational Approach (Work in Progress)._ GitHub repository.**  
+> https://github.com/WaukyJose/conjunction-analysis
+
+🧾 *Please note:*  
+- This is a **work in progress** forming part of a forthcoming peer-reviewed article.  
+- The code and dictionaries may evolve; updated versions will be tagged in the release history.  
+- Feedback, issue reports, and pull requests are very welcome.
+
+When the final paper is published, a DOI and formal reference will replace this preliminary citation.
 If you use or adapt this code or dictionaries, please cite the paper:
 
 > Lema-Alarcón, J. (2025). Dual-Level Modeling of Conjunction in L1 and L2 Writing: A Corpus-Based Computational Approach. 
